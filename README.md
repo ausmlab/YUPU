@@ -8,7 +8,7 @@ Official repository for our paper accepted at an **ECCV 2026 Workshop**.
 [Paper](PAPER_URL) | [Dataset](DATASET_URL)
 
 <p align="center">
-  <img src="assets/overview.png" width="900" alt="Overview of YUPU and GCDM">
+  <img src="yupu.png" width="900" alt="Overview of YUPU and GCDM">
 </p>
 
 ## Overview
